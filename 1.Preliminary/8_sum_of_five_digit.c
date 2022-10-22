@@ -1,3 +1,5 @@
+/*9. If a 5 digit number is input through the keyboard, write a program to
+calculate and print the sum of its digits. */
 #include<stdio.h>
 main ()
 {
