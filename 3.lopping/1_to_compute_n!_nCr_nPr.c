@@ -1,3 +1,8 @@
+/*1. x and n are input through keyboard. Write a program to compute 
+ n! ,
+nCr ,
+nPr
+*/
 #include <stdio.h>
 
 int factorial(int);
