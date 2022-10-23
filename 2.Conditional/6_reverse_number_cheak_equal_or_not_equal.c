@@ -1,3 +1,6 @@
+/*A five digit number is entered through the keyboard. Write a program to
+obtain the reverse number and to determine whether the original numbers
+are equal or not. */
 #include <stdio.h>
 int main(int argc, char const *argv[])
 {
