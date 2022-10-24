@@ -1,3 +1,5 @@
+/*Find out the sum of each of the following series. n is the input from user
+(iv) 1 + ( 1 + 2 ) + ( 1 + 2 + 3 ) + … + ( 1 + 2 + 3 + … + n )*/
 #include<stdio.h>
 
 void main()
