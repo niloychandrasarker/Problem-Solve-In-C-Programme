@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
        sum=sum+i;
        } 
         
-        printf("\n7 + 20 + 33 + '…' 100=%d\n",sum);
+        printf("\n7 + 20 + 33 + … 100=%d\n",sum);
     return 0;
 }
 
