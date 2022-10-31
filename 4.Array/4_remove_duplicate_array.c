@@ -1,3 +1,4 @@
+//Write a program to delete duplicate elements from an array
 #include <stdio.h>  
 #include <conio.h>  
 int main ()  

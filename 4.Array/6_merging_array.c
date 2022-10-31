@@ -1,3 +1,4 @@
+//2. Write a program to merge two sorted arrays.
 #include<stdio.h>
 #include<conio.h>
 int main()
@@ -24,6 +25,7 @@ int main()
     printf("\nThe new array after merging is:\n");
     for(i=0; i<k; i++)
         printf("%d ", merge[i]);
+
     getch();
     return 0;
 }

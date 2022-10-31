@@ -1,4 +1,5 @@
-
+/*Write a program to find out the maximum, minimum, median and mode
+of an array of numbers.*/
 #include <stdio.h>
  #include <conio.h>
  
