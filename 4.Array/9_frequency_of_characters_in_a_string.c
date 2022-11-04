@@ -1,3 +1,6 @@
+/*Write a program to count the frequencies of each character present in a
+text. (In addition to alphabet letters, count also the space, tab and
+punctuation letters)*/
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
