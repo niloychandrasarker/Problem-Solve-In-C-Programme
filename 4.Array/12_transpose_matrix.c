@@ -1,3 +1,4 @@
+//. Write a program to find out the Transpose of a Matrix
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
