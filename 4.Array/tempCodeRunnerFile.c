@@ -1,1 +1,1 @@
- // check every character
+ return 0;
