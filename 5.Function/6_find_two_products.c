@@ -1,3 +1,5 @@
+/*Write a function which receives a float and an int from main (), 
+finds the product of these two numbers and returns the product which is printed through main()?*/
 #include<stdio.h>
 float product(int a,float b)
 {
