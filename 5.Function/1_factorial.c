@@ -1,3 +1,5 @@
+/*Write a function to calculate the factorial value of any integer entered
+through the keyboard.*/
 #include<stdio.h>
 #include<conio.h>
 
