@@ -1,11 +1,12 @@
 
+
 /*write a programme to following this pattern
 Enter the N = 5
-    *
-   * *
-  * * *
- * * * *
-* * * * *
+*   *
+ * *
+  *
+ * *
+*   *
 */
 #include<stdio.h>
 int main(int argc, char const *argv[])
@@ -15,16 +16,16 @@ int main(int argc, char const *argv[])
     scanf("%d",&n);
     for ( row = 1; row <= n; row++)
     {
-        for ( col = 1; col <= n-row; col++)
+        for ( col = 1; col <= n; col++)
         {
+           if(col== row|| row+col==n+1 )
+           printf("*");
+
+           else
             printf(" ");
         }
 
 
-        for ( col = 1; col <= row; col++)
-        {
-            printf("* ");
-        }
       printf("\n");
     }
 
