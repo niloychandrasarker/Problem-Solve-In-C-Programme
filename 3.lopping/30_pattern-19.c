@@ -1,10 +1,11 @@
 
+
 /*write a programme to following this pattern
 Enter the N = 5
-*****
-*   *
-*   *
-*   *
+*
+**
+* *
+*  *
 *****
 */
 #include<stdio.h>
@@ -17,7 +18,7 @@ int main(int argc, char const *argv[])
     {
         for ( col = 1; col <= n; col++)
         {
-           if(row==1 || row==n || col==1 || col==n)
+           if(col==1 || row==n || col==row )
            printf("*");
 
            else
