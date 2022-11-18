@@ -1,10 +1,10 @@
+//Write a program in C to print first 50 natural numbers using recursion.
 #include<stdio.h>
 int  numPrint(int);
 int main()
 {
     int n = 1;
-	printf("\n\n Recursion : print first 50 natural numbers :\n");
-	printf("-------------------------------------------------\n"); 
+	
 	printf(" The natural numbers are :");
     numPrint(n);
     printf("\n\n");
